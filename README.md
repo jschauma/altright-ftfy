@@ -3,14 +3,14 @@
 
 Hello, media!  I noticed that you have been using the
 term "alt-right" lately, for example to describe
-president-elect Trump's choice of (Stephen K.
-Bannon)[https://en.wikipedia.org/wiki/Stephen_Bannon]
+president-elect Trump's choice of [Stephen K.
+Bannon](https://en.wikipedia.org/wiki/Stephen_Bannon)
 as "chief strategist and senior counselor to the
 president".
 
 Not everybody understand what "alt-right" means,
 however.  To quote from
-(Wikipedia)[https://en.wikipedia.org/wiki/Alt-right],
+[Wikipedia](https://en.wikipedia.org/wiki/Alt-right),
 it:
 
 > has also been associated with white supremacism,
@@ -43,7 +43,7 @@ It's easy!  Just install this Chrome extension:
 Et voilà!
 
 Before:
-![before](https://raw.githubusercontent.com/jschauma/cipherdiff/master/before.png)
+![before](https://github.com/jschauma/altright-ftfy/blob/master/before.png)
 
 After:
-![after](https://raw.githubusercontent.com/jschauma/cipherdiff/master/after.png)
+![after](https://github.com/jschauma/altright-ftfy/blob/master/after.png)
