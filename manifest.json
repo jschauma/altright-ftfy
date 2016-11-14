@@ -1,0 +1,17 @@
+{
+    "content_scripts": [
+        {
+            "js": [
+                "content_script.js"
+            ],
+            "matches": [
+                "*://*/*"
+            ],
+            "run_at": "document_end"
+        }
+    ],
+    "description": "Replace 'alt-right' with 'white supremacist'.",
+    "manifest_version": 2,
+    "name": "Alt-Right FTFY Extension",
+    "version": "1.0"
+}
