@@ -43,7 +43,9 @@ It's easy!  Just install this Chrome extension:
 Et voilà!
 
 Before:
+
 ![before](https://github.com/jschauma/altright-ftfy/blob/master/before.png)
 
 After:
+
 ![after](https://github.com/jschauma/altright-ftfy/blob/master/after.png)
