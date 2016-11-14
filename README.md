@@ -23,12 +23,12 @@ Now this is a mouthful, and I can see why you can't
 easily write "_Trump picks white supremacist,
 islamophobist, antifeminist, homophobic, antisemitic,
 ethno-nationalistic, right-wing populist, nativist,
-traditionailist, and neoreactionary leader to one of
+traditionalist, and neoreactionary leader to one of
 the most influential positions in the country._"
 
 But "_alt-right_" really doesn't quite do this justice,
-does it?  So let's compromise, let's just use "white
-supremacist", because that nicely includes the entire
+does it?  So let's compromise, let's just use "_white
+supremacist_", because that nicely includes the entire
 basket of deplorable adjectives already.
 
 Instead of using "_alt-right_", say "_white supremacist_".
