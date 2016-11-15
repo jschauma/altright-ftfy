@@ -8,7 +8,7 @@ Bannon](https://en.wikipedia.org/wiki/Stephen_Bannon)
 as "chief strategist and senior counselor to the
 president".
 
-Not everybody understand what "_alt-right_" means,
+Not everybody understands what "_alt-right_" means,
 however.  To quote from
 [Wikipedia](https://en.wikipedia.org/wiki/Alt-right),
 it:
